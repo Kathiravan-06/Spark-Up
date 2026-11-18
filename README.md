@@ -75,22 +75,11 @@ The application covers the following disaster categories:
 | ⛰️ Landslide         | Warning signs and evacuation procedures      |
 | 🌍 General Disasters | Disaster preparedness and emergency response |
 
-## 🛠️ Tech Stack
+Frontend Development: HTML5, CSS3, JavaScript
 
-### 💻 Frontend Development
+Storage & Data Management: LocalStorage, SessionStorage
 
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=html,css,js](https://skillicons.dev/icons?i=html,css,js)" /> \</p>
-
-### 🗄️ Storage & Data Management
-
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=firebase](https://skillicons.dev/icons?i=firebase)" /> \</p>
-
-- LocalStorage – Stores prototype user information and learning progress.
-- SessionStorage – Maintains the active user session.
-
-### 🧰 Tools & Platforms
-
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=git,github,vscode](https://skillicons.dev/icons?i=git,github,vscode)" /> \</p>
+Tools & Platforms: Git, GitHub, VS Code
 
 ## 📂 Project Structure
 
